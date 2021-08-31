@@ -1,4 +1,0 @@
-Begin
-Plot(lowd(0));
-Plot2(highd(0));
-End;
