@@ -1,1 +1,0 @@
-(Close- lowest(Close,Periodo)) / ((highest(Close,Periodo)) - lowest(Close,Periodo)) * 100)
