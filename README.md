@@ -4,7 +4,7 @@ Este espaço tem o objetivo de concentrar de forma organizada a maior quantidade
 
 # Indicadores PhiCube
 
-Indicadores baseado nos indicadores phicube com uma boa aproximação dos originais.
+Baseado nos indicadores phicube com uma boa aproximação dos originais.
 Regra de coloração ja configuradas conforme o original.
 PVPC nos testes pareceu ser identico.
 Mimas são próximas das originais.
