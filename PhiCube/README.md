@@ -1,7 +1,7 @@
 # INSTALAR PHICUBEFULL
 
 
-
+Selecionar todas as opçoes na hora da importação
 
 -------
 # AVISO:
